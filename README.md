@@ -11,9 +11,11 @@ In gathering the temperature data, we do see some similarities in weather betwee
 1. The minimum temperature in December (56 degreees farenheit) is 8 degrees lower in December than it is in June (64 degreees farenheit). 
 2. The average temperature is 3 degrees lower in December (71 degreees farenheit) as compared to June (75 degreees farenheit).
 3. The temperatures in December are lower by at least 3 degrees for each quartile as compared to June (further detail in images below). 
+# June temperature data
+![alt text](https://github.com/Jgray353/surfs_up/blob/main/June_temp_stats.png)
 
-![alt text]
-![alt text]
+# December temperature data
+![alt text](https://github.com/Jgray353/surfs_up/blob/main/December_temp_stats.png)
 
 # Summary 
 If comparing these months for which will do better on ice cream sales, June would win. However, December has enough warm days and isn't significantly colder than June to suggest ice creams would suffer greatly. Additional analysis for precipitation data as well as number of sunny/cloudy days would also be beneficial to better determine how the weather might impact the success of the shop. 
